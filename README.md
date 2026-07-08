@@ -28,5 +28,5 @@ https://jlindop2505.github.io/bird_record_distribution_maps/willow_tit_distribut
 Montagu's Harrier record distribution map 1970-2025:
 https://jlindop2505.github.io/bird_record_distribution_maps/m_harrier_distribution_map.html
 
-Turtle Dove record distributuin map 1970-2025:
+Turtle Dove record distribution map 1970-2025:
 https://jlindop2505.github.io/bird_record_distribution_maps/turtle_dove_distribution_map.html
