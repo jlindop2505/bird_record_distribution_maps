@@ -1,6 +1,8 @@
 Bird record distribution map 2020-2025:
 https://jlindop2505.github.io/bird_record_distribution_maps/record_distribution_map.html
 
+Species distribution maps, where darker blue points represent the oldest records, and the most recent records are represented by lighter blue points:
+
 Bittern record distribution map 1970-2025:
 https://jlindop2505.github.io/bird_record_distribution_maps/bittern_distribution_map.html
 
